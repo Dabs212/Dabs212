@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dabs212
-- 👀 I’m interested in GNN and its applications to multivariable controller models
-- 🌱 I’m currently learning Pytorch and GNN
+- 👀 I’m interested in GNN and its applications to Multivariable Controller Steady State Models
+- 🌱 I’m currently learning Pytorch and GNN and polishing my python
 - 💞️ I’m looking to collaborate on Uses of GNN in identifying missing Multivariable Controller Gains/Relationships
 - 📫 How to reach me thru Linkedin or on the Hub
 
